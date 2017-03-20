@@ -1,0 +1,31 @@
+ID,Gender,Race,Age,Total_Income,Intended_Child_Sum,Current_Child_Sum,Ideal_Child_Sum
+9,Male,African American,36,12000,1,2,2
+16,Male,African American,28,15000,1,1,1
+5,Male,African American,23,16000,1,3,2
+20,Female,Caucasian,27,16000,5,2,1
+22,Male,African American,44,16000,5,0,1
+21,Female,Other,29,17000,3,4,5
+12,Male,Hispanic,27,18000,2,3,4
+15,Female,Other,52,18000,3,2,3
+7,Female,Caucasian,25,19000,0,0,2
+3,Female,Hispanic,32,20000,0,2,1
+19,Male,Hispanic,41,20000,0,3,2
+4,Female,Other,21,20000,0,1,5
+1,Male,African American,25,20000,2,2,3
+17,Female,Caucasian,49,20000,3,5,3
+29,Male,Caucasian,35,20000,3,2,3
+24,Female,Hispanic,25,21000,3,3,3
+14,Female,Caucasian,28,24000,4,3,4
+2,Female,Hispanic,31,26000,1,3,2
+25,Male,Other,22,26000,3,1,3
+13,Female,Caucasian,33,26000,4,0,1
+30,Female,African American,34,27000,3,2,5
+26,Female,African American,32,28000,1,2,2
+11,Male,Caucasian,25,28000,2,1,3
+10,Male,Other,34,30000,0,0,3
+28,Male,Hispanic,20,32000,2,2,4
+27,Female,African American,34,33000,0,1,3
+6,Female,Other,38,35000,1,3,4
+8,Female,Caucasian,39,35000,2,3,5
+23,Male,Other,25,40000,0,1,1
+18,Female,Other,43,43000,1,3,5
